@@ -22,15 +22,18 @@ class User
     @email = email 
     
   end
-
+  
+  
+  def print_user_name
+    puts @user_name
+  end
+ 
 end
+
 
 #Creates a new instance of the class User
 henna = User.new("henna13", "abc123", "5/30/2001", "hennaswift13@yahoo.com")
 sasha = User.new("legend27", "0000", "8/5/2002", "legendairy38@aol.com")
-
-
-
 
 
 

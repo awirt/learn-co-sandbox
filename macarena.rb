@@ -1,31 +1,22 @@
-#Directions for dancing the macarena:
+#Methods: a name for a set of commands
 
 def macarena
-  
-  puts "Right arm out!"
+  puts "Put your right arm out!"
   puts "Left arm out!"
-  puts "Turn right arm over!"
-  puts "Turn left arm over!"
-  puts "Right arm to left shoulder!"
-  puts "Left arm to right shoulder!"
-  puts "Right arm to head!"
-  puts "Left arm to head!"
-  puts "Right arm left hip!"
-  puts "Left arm to right hip!"
-  puts "Right arm right hip!"
-  puts "Left arm left hip!"
-  puts "Swing hips!"
-  puts "Turn left!"
-  
+  puts "Flip right arm!"
+  puts "Flip left arm!"
+  puts "Right arm, left shoulder!"
+  puts "Left arm, right shoulder!"
+  puts "Right arm to your headdddddd!"
+  puts "Left arm to your head tooooooooooO!"
+  puts "Right arm, left hip."
+  puts "Left arm, right hip."
+  puts "Right arm, right hip."
+  puts "Left arm, left hip."
+  puts "AYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY macarena (TURN! like spongebob)!"
 end
 
 macarena
-puts "Ayyyyyyy MACARENA!"
 macarena
-puts "Ayyyyyyy MACARENA!"
 macarena
-puts "Ayyyyyyy MACARENA!"
 macarena
-puts "End."
-
-
